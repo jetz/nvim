@@ -1,0 +1,2 @@
+# nvim
+@jetz neovim init
